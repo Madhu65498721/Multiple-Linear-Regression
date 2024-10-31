@@ -28,7 +28,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/multiple-linear-regression.git
+   git clone https://github.com/Madhu65498721/Multiple-Linear-Regression.git
    cd multiple-linear-regression
    ```
 
